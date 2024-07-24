@@ -2656,9 +2656,9 @@
 		24 Tabarclock Squire
 		24 Evolving Wilds
 	[BasicSlot(1)]
-		24e Outlands Ranch
-		24e Dalk Tabar Waterworks
-		24e Gas Bog
-		24e Flamevein Foothills
-		24e Logging Depot
+		24 Outlands Ranch
+		24 Dalk Tabar Waterworks
+		24 Gas Bog
+		24 Flamevein Foothills
+		24 Logging Depot
 	
