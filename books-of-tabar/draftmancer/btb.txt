@@ -2295,15 +2295,6 @@
 	        }
 	    },
 	    {
-	        "name": "Human Soldier",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
-	        }
-	    },
-	    {
 	        "name": "Spider",
 	        "rarity": "common",
 	        "mana_cost": "",
