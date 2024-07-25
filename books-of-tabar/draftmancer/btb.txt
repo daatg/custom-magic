@@ -1872,12 +1872,12 @@
 	        }
 	    },
 	    {
-	        "name": "Waitgeist",
+	        "name": "Geist of the Quiet Wait",
 	        "rarity": "rare",
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Spirit Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Waitgeist.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Geist of the Quiet Wait.jpg"
 	        }
 	    },
 	    {
@@ -2442,7 +2442,7 @@
 		2 Denude
 		2 Slaughterpug
 		2 Hexmail Masterfitter
-		2 Waitgeist
+		2 Geist of the Quiet Wait
 		2 Patrolled Parapet
 		2 Cavetomb Callings
 		2 Zemt, Eye of the Undercity
