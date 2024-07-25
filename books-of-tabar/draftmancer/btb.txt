@@ -676,9 +676,9 @@
 	    },
 	    {
 	        "name": "Taprave Revel",
-	        "rarity": "common",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Sorcery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Taprave Revel.jpg"
 	        }
@@ -963,12 +963,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mystic Retreat",
+	        "name": "Decided Devotion",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
-	        "type": "Instant",
+	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mystic Retreat.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Decided Devotion.jpg"
 	        }
 	    },
 	    {
@@ -1180,9 +1180,9 @@
 	    },
 	    {
 	        "name": "Flamepress Initiative",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Flamepress Initiative.jpg"
 	        }
@@ -1298,7 +1298,7 @@
 	    {
 	        "name": "Cobblecrack Shell",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{G}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cobblecrack Shell.jpg"
@@ -1371,7 +1371,7 @@
 	        "name": "Bulking Season",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
-	        "type": "Instant",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bulking Season.jpg"
 	        }
@@ -1460,7 +1460,7 @@
 	    {
 	        "name": "Drisseu's Study",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Drisseu's Study.jpg"
@@ -1478,7 +1478,7 @@
 	    {
 	        "name": "Summons to Sletskev",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Summons to Sletskev.jpg"
@@ -2007,12 +2007,12 @@
 	        }
 	    },
 	    {
-	        "name": "Tireless Guardsquire",
+	        "name": "Cloaked Cutpurse",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Human ",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Imp Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Tireless Guardsquire.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cloaked Cutpurse.jpg"
 	        }
 	    },
 	    {
@@ -2477,6 +2477,7 @@
 		24 Annotated Reproof
 		24 Kiln Fiend
 		24 Fissurebreaker
+		24 Taprave Revel
 		24 Ten Men Strong
 		24 Doubleproof Bulwark
 		24 Giantsuit Stiltsmith
@@ -2486,7 +2487,7 @@
 		24 Forgegiest
 		24 Diviner's Hawk
 		24 No Risks
-		24 Mystic Retreat
+		24 Decided Devotion
 		24 Preachsergeant
 		24 Belltower Sphinx
 		24 Book Fluke
@@ -2508,7 +2509,6 @@
 		24 Search the Caves
 		24 Jun Analyst
 		24 Grim Bureaucrat
-		24 Flamepress Initiative
 		24 Igneous Wurm
 		24 Edge Case
 		24 Veinbelt Innovator
@@ -2540,7 +2540,7 @@
 		24 Gasblow Gauntlets
 		24 Fireshrieker
 		24 Helinar Broadsword
-		24 Tireless Guardsquire
+		24 Cloaked Cutpurse
 		24 Pipeborn Crustacean
 		24 Terroreye Cavebeast
 		24 Raggak Flagbearer
@@ -2622,7 +2622,6 @@
 		24 Vein Fever
 		24 Prodigal Hands
 		24 Flamegush
-		24 Taprave Revel
 		24 Anvil Muscle
 		24 Arsonist's Dilemma
 		24 Favorfare Boon
@@ -2647,6 +2646,7 @@
 		24 Squander
 		24 Tabar Meditation
 		24 False Pretense
+		24 Flamepress Initiative
 		24 Ravine Rustler
 		24 Raggak Fragrunner
 		24 Chronotomaton
