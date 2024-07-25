@@ -740,7 +740,7 @@
 	    {
 	        "name": "Lurgy-Gurgy",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Spider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Lurgy-Gurgy.jpg"
@@ -785,7 +785,7 @@
 	    {
 	        "name": "Deeptrunk Shaman",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deeptrunk Shaman.jpg"
