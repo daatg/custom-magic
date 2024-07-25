@@ -1694,7 +1694,7 @@
 	    {
 	        "name": "Margin of Rout",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Solider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Margin of Rout.jpg"
