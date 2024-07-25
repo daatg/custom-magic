@@ -432,12 +432,12 @@
 	        }
 	    },
 	    {
-	        "name": "Feared Mass",
+	        "name": "Fearèd Mass",
 	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Feared Mass.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fearèd Mass.jpg"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 		24 Bubbleflesh Summons
 		24 Tunnel Fiend
 		24 Spoilbrain
-		24 Feared Mass
+		24 Fearèd Mass
 		24 Sletskev Torturer
 		24 Passed From Bond
 		24 Colonyplot Overseer
