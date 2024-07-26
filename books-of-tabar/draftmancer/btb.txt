@@ -39,7 +39,7 @@
 	        "name": "Believer in the Plan",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
-	        "type": "Creature — Human Soldier ",
+	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Believer in the Plan.jpg"
 	        }
@@ -120,7 +120,7 @@
 	        "name": "Conservancy Aeromancer",
 	        "rarity": "common",
 	        "mana_cost": "{4}{W}",
-	        "type": "Creature — Elf Soldier Wizard ",
+	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Conservancy Aeromancer.jpg"
 	        }
@@ -218,7 +218,7 @@
 	    {
 	        "name": "Dagu Wellhop",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Imp ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dagu Wellhop.jpg"
@@ -234,12 +234,12 @@
 	        }
 	    },
 	    {
-	        "name": "Charmstone Watchkeep",
+	        "name": "Charmstone Sentry",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Golem Soldier ",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Golem Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Sentry.jpg"
 	        }
 	    },
 	    {
@@ -351,12 +351,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rank and Filed",
+	        "name": "Pecking Order",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rank and Filed.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
 	        }
 	    },
 	    {
@@ -893,7 +893,7 @@
 	    {
 	        "name": "Doubleproof Bulwark",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}{W}",
+	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Giant Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Doubleproof Bulwark.jpg"
@@ -981,12 +981,12 @@
 	        }
 	    },
 	    {
-	        "name": "Belltower Sphinx",
+	        "name": "Disturbed Rhizome",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
-	        "type": "Creature — Sphinx ",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Plant Weird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Belltower Sphinx.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Disturbed Rhizome.jpg"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 		24 No Risks
 		24 Decided Devotion
 		24 Preachsergeant
-		24 Belltower Sphinx
+		24 Disturbed Rhizome
 		24 Book Fluke
 		24 Direflock Summons
 		24 Ephemera Seer
@@ -2577,7 +2577,7 @@
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
-		24 Charmstone Watchkeep
+		24 Charmstone Sentry
 		24 Dalk Warkite
 		24 Sletskev Breakout
 		24 Overworked Augur
@@ -2588,7 +2588,7 @@
 		24 In Due Course
 		24 Premature Retirement
 		24 Pedantry
-		24 Rank and Filed
+		24 Pecking Order
 		24 Walk the Waterworks
 		24 Cost of Progress
 		24 Mind Fly
