@@ -237,7 +237,7 @@
 	        "name": "Charmstone Sentry",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Golem Wizard ",
+	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Sentry.jpg"
 	        }
