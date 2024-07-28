@@ -2034,12 +2034,12 @@
 	        }
 	    },
 	    {
-	        "name": "Raggak Flagbearer",
+	        "name": "Altar of Contrition",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}",
-	        "type": "Creature — Goblin Warrior ",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Flagbearer.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Altar of Contrition.jpg"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 		24 Cloaked Cutpurse
 		24 Pipeborn Crustacean
 		24 Terroreye Cavebeast
-		24 Raggak Flagbearer
+		24 Altar of Contrition
 		24 Retire From View
 		24 Ghoulcaller's Bell
 		24 Raggak Gravetiller
