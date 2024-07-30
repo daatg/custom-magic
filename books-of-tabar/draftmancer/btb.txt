@@ -12,7 +12,7 @@
 	        "name": "Infantry Readysmith",
 	        "rarity": "rare",
 	        "mana_cost": "{R}{W}",
-	        "type": "Creature — Human Soldier Artificer ",
+	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Infantry Readysmith.jpg"
 	        }
@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -632,7 +632,7 @@
 	    {
 	        "name": "Dynamo Discharge",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dynamo Discharge.jpg"
@@ -2391,6 +2391,15 @@
 	        "type": "Token Creature — Sphinx Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sphinx Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "BTB DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/BTB DRAFT ARCHETYPES.jpg"
 	        }
 	    },
 	    {
