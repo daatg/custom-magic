@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -398,8 +398,8 @@
 	    {
 	        "name": "Miasmageist",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Elemental ",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Miasmageist.jpg"
 	        }
@@ -443,8 +443,8 @@
 	    {
 	        "name": "Sletskev Torturer",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Vampire Rogue ",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sletskev Torturer.jpg"
 	        }
@@ -452,7 +452,7 @@
 	    {
 	        "name": "Passed From Bond",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}{B}",
+	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Passed From Bond.jpg"
@@ -524,7 +524,7 @@
 	    {
 	        "name": "Scrape the Mindflesh",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Scrape the Mindflesh.jpg"
@@ -2394,6 +2394,15 @@
 	        }
 	    },
 	    {
+	        "name": "BTB DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/BTB DRAFT ARCHETYPES.jpg"
+	        }
+	    },
+	    {
 	        "name": "Spirit",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -2403,6 +2412,12 @@
 	        }
 	    }
 	]
+	[BasicSlot(1)]
+		24 Outlands Ranch
+		24 Dalk Tabar Waterworks
+		24 Gas Bog
+		24 Flamevein Foothills
+		24 Logging Depot
 	[RareSlot(1)]
 		2 Infantry Readysmith
 		2 Outwoods Hydra
@@ -2655,10 +2670,4 @@
 		24 Training Sword
 		24 Tabarclock Squire
 		24 Evolving Wilds
-	[BasicSlot(1)]
-		24 Outlands Ranch
-		24 Dalk Tabar Waterworks
-		24 Gas Bog
-		24 Flamevein Foothills
-		24 Logging Depot
 	
