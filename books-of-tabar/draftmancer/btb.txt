@@ -495,12 +495,12 @@
 	        }
 	    },
 	    {
-	        "name": "Cerebrum Swap",
+	        "name": "Anoint in Germ",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
-	        "type": "Sorcery",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cerebrum Swap.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Anoint in Germ.jpg"
 	        }
 	    },
 	    {
@@ -983,7 +983,7 @@
 	    {
 	        "name": "Disturbed Rhizome",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Plant Weird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Disturbed Rhizome.jpg"
@@ -992,7 +992,7 @@
 	    {
 	        "name": "Book Fluke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Book Fluke.jpg"
@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Unexpected Transformation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unexpected Transformation.jpg"
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
@@ -1514,7 +1514,7 @@
 	    {
 	        "name": "Rootbrain Augur",
 	        "rarity": "rare",
-	        "mana_cost": "{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rootbrain Augur.jpg"
@@ -2135,7 +2135,7 @@
 	    {
 	        "name": "Keep-Sphinx",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}{B}",
+	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Sphinx Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Keep-Sphinx.jpg"
@@ -2394,15 +2394,6 @@
 	        }
 	    },
 	    {
-	        "name": "BTB DRAFT ARCHETYPES",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/BTB DRAFT ARCHETYPES.jpg"
-	        }
-	    },
-	    {
 	        "name": "Spirit",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -2412,12 +2403,6 @@
 	        }
 	    }
 	]
-	[BasicSlot(1)]
-		24 Outlands Ranch
-		24 Dalk Tabar Waterworks
-		24 Gas Bog
-		24 Flamevein Foothills
-		24 Logging Depot
 	[RareSlot(1)]
 		2 Infantry Readysmith
 		2 Outwoods Hydra
@@ -2619,7 +2604,7 @@
 		24 Pen For Execution
 		24 Three Blights
 		24 Polluter's Immunity
-		24 Cerebrum Swap
+		24 Anoint in Germ
 		24 Trade in Pith
 		24 Twenty-five Fingers
 		24 Scrape the Mindflesh
@@ -2670,4 +2655,10 @@
 		24 Training Sword
 		24 Tabarclock Squire
 		24 Evolving Wilds
+	[BasicSlot(1)]
+		24 Outlands Ranch
+		24 Dalk Tabar Waterworks
+		24 Gas Bog
+		24 Flamevein Foothills
+		24 Logging Depot
 	
