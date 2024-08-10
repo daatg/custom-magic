@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -2391,6 +2391,15 @@
 	        "type": "Token Creature — Sphinx Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sphinx Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "BTB DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/BTB DRAFT ARCHETYPES.jpg"
 	        }
 	    },
 	    {
