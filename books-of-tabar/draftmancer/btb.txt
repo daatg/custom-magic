@@ -289,8 +289,8 @@
 	    },
 	    {
 	        "name": "Winds of Rebuke",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}{U}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Winds of Rebuke.jpg"
@@ -307,8 +307,8 @@
 	    },
 	    {
 	        "name": "World From Word",
-	        "rarity": "common",
-	        "mana_cost": "{U}{U}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/World From Word.jpg"
@@ -317,7 +317,7 @@
 	    {
 	        "name": "In Due Course",
 	        "rarity": "common",
-	        "mana_cost": "{5}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/In Due Course.jpg"
@@ -812,7 +812,7 @@
 	    {
 	        "name": "Menacing Rumble",
 	        "rarity": "common",
-	        "mana_cost": "{4}{G}{G}",
+	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Menacing Rumble.jpg"
@@ -857,7 +857,7 @@
 	    {
 	        "name": "Pit Fight Spoils",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pit Fight Spoils.jpg"
@@ -983,7 +983,7 @@
 	    {
 	        "name": "Disturbed Rhizome",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{U}{U}",
+	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Plant Weird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Disturbed Rhizome.jpg"
@@ -1054,8 +1054,8 @@
 	    },
 	    {
 	        "name": "Unexpected Transformation",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unexpected Transformation.jpg"
@@ -1180,9 +1180,9 @@
 	    },
 	    {
 	        "name": "Flamepress Initiative",
-	        "rarity": "common",
-	        "mana_cost": "{R}",
-	        "type": "Sorcery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Flamepress Initiative.jpg"
 	        }
@@ -1224,12 +1224,12 @@
 	        }
 	    },
 	    {
-	        "name": "Raggak Fragrunner",
+	        "name": "Raggak Scraprunner",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Creature — Goblin Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Fragrunner.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Scraprunner.jpg"
 	        }
 	    },
 	    {
@@ -1261,8 +1261,8 @@
 	    },
 	    {
 	        "name": "Forge-Thrull's Revenge",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}{R}",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
@@ -1477,7 +1477,7 @@
 	    },
 	    {
 	        "name": "Summons to Sletskev",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
@@ -1495,9 +1495,9 @@
 	    },
 	    {
 	        "name": "Sudden Size",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{U}",
-	        "type": "Sorcery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
 	        }
@@ -1659,7 +1659,7 @@
 	        "name": "Mycelial Collosus",
 	        "rarity": "rare",
 	        "mana_cost": "{X}{G}",
-	        "type": "Creature — Avatar ",
+	        "type": "Creature — Fungus Avatar ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mycelial Collosus.jpg"
 	        }
@@ -1755,12 +1755,12 @@
 	        }
 	    },
 	    {
-	        "name": "Flamepress Bastionforge",
+	        "name": "Tunnel Breach",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{R}{R}{R}",
-	        "type": "Legendary Artifact",
+	        "mana_cost": "{X}{X}{R}{R}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Flamepress Bastionforge.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Tunnel Breach.jpg"
 	        }
 	    },
 	    {
@@ -1818,12 +1818,12 @@
 	        }
 	    },
 	    {
-	        "name": "Instant Iterator",
+	        "name": "Reckless Iterator",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Goblin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Instant Iterator.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Reckless Iterator.jpg"
 	        }
 	    },
 	    {
@@ -2088,12 +2088,12 @@
 	        }
 	    },
 	    {
-	        "name": "Dagu Archivist",
+	        "name": "Vanish From Garb",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Imp ",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dagu Archivist.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Vanish From Garb.jpg"
 	        }
 	    },
 	    {
@@ -2416,8 +2416,8 @@
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
+		2 Summons to Sletskev
 		2 Opulence of the Depths
-		2 Sudden Size
 		2 Drisseu's Relinquish
 		2 Rootbrain Augur
 		2 Gargantuan Mythspawn
@@ -2466,7 +2466,7 @@
 		1 Augury of the End
 		1 Hilvask, Reanimator Exalt
 		1 Raggak Dragoncaller
-		1 Flamepress Bastionforge
+		1 Tunnel Breach
 		1 Aeonscaalt
 		1 Eldmantle
 		1 Monument to the Discovery
@@ -2474,6 +2474,8 @@
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
 		24 Fall Into Place
+		24 Winds of Rebuke
+		24 World From Word
 		24 Annotated Reproof
 		24 Kiln Fiend
 		24 Fissurebreaker
@@ -2495,7 +2497,6 @@
 		24 Ephemera Seer
 		24 Centurystorm
 		24 Deepsphinx
-		24 Unexpected Transformation
 		24 Editorial Censorship
 		24 Rooftop View
 		24 Lethal Itinerary
@@ -2509,13 +2510,13 @@
 		24 Search the Caves
 		24 Jun Analyst
 		24 Grim Bureaucrat
+		24 Flamepress Initiative
 		24 Igneous Wurm
 		24 Edge Case
 		24 Veinbelt Innovator
 		24 Crackleshockomancy
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
-		24 Forge-Thrull's Revenge
 		24 Glassmail Heavy Infantry
 		24 Ranch Stalker
 		24 Angry Sow
@@ -2528,12 +2529,12 @@
 		24 Sandarmor Ecclesiast
 		24 Rootcrux Harkonings
 		24 Bulking Season
-		24 Summons to Sletskev
+		24 Sudden Size
 		24 Conservancy Watchlight
 		24 Towering Auramancer
 		24 Outlands Missionary
 		24 Petty-Thrull Squad Captain
-		24 Instant Iterator
+		24 Reckless Iterator
 		24 Conservancy Armsmaster
 		24 Underpipe Muckdelver
 		24 Beast of Industry
@@ -2549,7 +2550,7 @@
 		24 Raggak Gravetiller
 		24 Foreboded Fauna
 		24 Acid Weaver
-		24 Dagu Archivist
+		24 Vanish From Garb
 		24 Forge-Thrull Ransack
 		24 Jun Stitcher-Surgeon
 		24 Cavern Broodmother
@@ -2582,9 +2583,7 @@
 		24 Sletskev Breakout
 		24 Overworked Augur
 		24 Wellborne Cobbleskate
-		24 Winds of Rebuke
 		24 Aqueous Form
-		24 World From Word
 		24 In Due Course
 		24 Premature Retirement
 		24 Pedantry
@@ -2646,9 +2645,10 @@
 		24 Squander
 		24 Tabar Meditation
 		24 False Pretense
-		24 Flamepress Initiative
+		24 Unexpected Transformation
 		24 Ravine Rustler
-		24 Raggak Fragrunner
+		24 Raggak Scraprunner
+		24 Forge-Thrull's Revenge
 		24 Chronotomaton
 		24 Cavecharm
 		24 Eschaton Cloak
