@@ -326,7 +326,7 @@
 	    {
 	        "name": "Premature Retirement",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Premature Retirement.jpg"
@@ -792,12 +792,12 @@
 	        }
 	    },
 	    {
-	        "name": "Blind-Eye Baloth",
+	        "name": "Muzzled Baloth",
 	        "rarity": "common",
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Blind-Eye Baloth.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Muzzled Baloth.jpg"
 	        }
 	    },
 	    {
@@ -812,7 +812,7 @@
 	    {
 	        "name": "Menacing Rumble",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Menacing Rumble.jpg"
@@ -1017,12 +1017,12 @@
 	        }
 	    },
 	    {
-	        "name": "Tabar Meditation",
+	        "name": "Grotto Meditation",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Tabar Meditation.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Grotto Meditation.jpg"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
@@ -1460,7 +1460,7 @@
 	    {
 	        "name": "Drisseu's Study",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Drisseu's Study.jpg"
@@ -1505,7 +1505,7 @@
 	    {
 	        "name": "Drisseu's Relinquish",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{B}{B}",
+	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Drisseu's Relinquish.jpg"
@@ -1701,12 +1701,12 @@
 	        }
 	    },
 	    {
-	        "name": "Cithes, Jun Tactician",
+	        "name": "Cithes, Tactician in Plans",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{3}{W}{W}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cithes, Jun Tactician.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cithes, Tactician in Plans.jpg"
 	        }
 	    },
 	    {
@@ -2469,7 +2469,7 @@
 		1 Fjal, Augur in Chief
 		1 Favri, Prodigal Alloysmith
 		1 Margin of Rout
-		1 Cithes, Jun Tactician
+		1 Cithes, Tactician in Plans
 		1 Recontextualize
 		1 Untelling
 		1 Augury of the End
@@ -2642,7 +2642,7 @@
 		24 Outcamp Handyman
 		24 Loambill
 		24 Deeptrunk Shaman
-		24 Blind-Eye Baloth
+		24 Muzzled Baloth
 		24 Headstrong Baloth
 		24 Menacing Rumble
 		24 Sure Bounty
@@ -2652,7 +2652,7 @@
 		24 Pit Fight Spoils
 		24 Fated Fall
 		24 Squander
-		24 Tabar Meditation
+		24 Grotto Meditation
 		24 False Pretense
 		24 Unexpected Transformation
 		24 Ravine Rustler
