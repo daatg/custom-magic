@@ -39,7 +39,7 @@
 	        "name": "Believer in the Plan",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
-	        "type": "Creature — Human ",
+	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Believer in the Plan.jpg"
 	        }
@@ -117,12 +117,12 @@
 	        }
 	    },
 	    {
-	        "name": "Conservancy Aeromancer",
+	        "name": "Aeroguard Regular",
 	        "rarity": "common",
 	        "mana_cost": "{4}{W}",
-	        "type": "Creature — Elf Wizard ",
+	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Conservancy Aeromancer.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeroguard Regular.jpg"
 	        }
 	    },
 	    {
@@ -765,12 +765,12 @@
 	        }
 	    },
 	    {
-	        "name": "Outcamp Handyman",
+	        "name": "Outcamp Woodsman",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outcamp Handyman.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outcamp Woodsman.jpg"
 	        }
 	    },
 	    {
@@ -956,7 +956,7 @@
 	    {
 	        "name": "No Risks",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/No Risks.jpg"
@@ -1053,12 +1053,12 @@
 	        }
 	    },
 	    {
-	        "name": "Unexpected Transformation",
+	        "name": "Unlikely Transformation",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unexpected Transformation.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlikely Transformation.jpg"
 	        }
 	    },
 	    {
@@ -1908,12 +1908,12 @@
 	        }
 	    },
 	    {
-	        "name": "Chronotomaton",
+	        "name": "Servant of Industry",
 	        "rarity": "common",
-	        "mana_cost": "{1}",
+	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Chronotomaton.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Servant of Industry.jpg"
 	        }
 	    },
 	    {
@@ -2574,7 +2574,7 @@
 		24 Tazeem Raptor
 		24 Mint of Rank
 		24 Veteran of the Guard
-		24 Conservancy Aeromancer
+		24 Aeroguard Regular
 		24 Interred Guardkeep
 		24 Conservancy Firmament
 		24 Piercing Light
@@ -2639,7 +2639,7 @@
 		24 Lurgy-Gurgy
 		24 Aura Toad
 		24 Virid Mass
-		24 Outcamp Handyman
+		24 Outcamp Woodsman
 		24 Loambill
 		24 Deeptrunk Shaman
 		24 Muzzled Baloth
@@ -2654,11 +2654,11 @@
 		24 Squander
 		24 Grotto Meditation
 		24 False Pretense
-		24 Unexpected Transformation
+		24 Unlikely Transformation
 		24 Ravine Rustler
 		24 Raggak Scraprunner
 		24 Forge-Thrull's Revenge
-		24 Chronotomaton
+		24 Servant of Industry
 		24 Cavecharm
 		24 Eschaton Cloak
 		24 Training Sword
