@@ -281,7 +281,7 @@
 	    {
 	        "name": "Fall Into Place",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fall Into Place.jpg"
@@ -290,7 +290,7 @@
 	    {
 	        "name": "Winds of Rebuke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}{U}",
+	        "mana_cost": "{U}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Winds of Rebuke.jpg"
@@ -307,9 +307,9 @@
 	    },
 	    {
 	        "name": "World From Word",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
-	        "type": "Sorcery",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/World From Word.jpg"
 	        }
@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -632,7 +632,7 @@
 	    {
 	        "name": "Dynamo Discharge",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dynamo Discharge.jpg"
@@ -650,7 +650,7 @@
 	    {
 	        "name": "Vein Fever",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Vein Fever.jpg"
@@ -992,7 +992,7 @@
 	    {
 	        "name": "Book Fluke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Book Fluke.jpg"
@@ -1054,7 +1054,7 @@
 	    },
 	    {
 	        "name": "Unlikely Transformation",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -1271,7 +1271,7 @@
 	    {
 	        "name": "Glassmail Heavy Infantry",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}{R}",
+	        "mana_cost": "{R}{R}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Glassmail Heavy Infantry.jpg"
@@ -1496,7 +1496,7 @@
 	    {
 	        "name": "Sudden Size",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}{U}",
+	        "mana_cost": "{6}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
@@ -1793,7 +1793,7 @@
 	    {
 	        "name": "Towering Auramancer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}{G}",
+	        "mana_cost": "{1}{R}{G}",
 	        "type": "Creature — Giant Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Towering Auramancer.jpg"
@@ -1802,7 +1802,7 @@
 	    {
 	        "name": "Outlands Missionary",
 	        "rarity": "uncommon",
-	        "mana_cost": "{G}{W}",
+	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outlands Missionary.jpg"
@@ -2295,15 +2295,6 @@
 	        }
 	    },
 	    {
-	        "name": "Human Soldier",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
-	        }
-	    },
-	    {
 	        "name": "Spider",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -2355,6 +2346,15 @@
 	        "type": "Token Creature — Thrull ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
+	        }
+	    },
+	    {
+	        "name": "Human Soldier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2484,7 +2484,6 @@
 	[UncommonSlot(3)]
 		24 Fall Into Place
 		24 Winds of Rebuke
-		24 World From Word
 		24 Annotated Reproof
 		24 Kiln Fiend
 		24 Fissurebreaker
@@ -2506,6 +2505,7 @@
 		24 Ephemera Seer
 		24 Centurystorm
 		24 Deepsphinx
+		24 Unlikely Transformation
 		24 Editorial Censorship
 		24 Rooftop View
 		24 Lethal Itinerary
@@ -2593,6 +2593,7 @@
 		24 Overworked Augur
 		24 Wellborne Cobbleskate
 		24 Aqueous Form
+		24 World From Word
 		24 In Due Course
 		24 Premature Retirement
 		24 Pedantry
@@ -2654,7 +2655,6 @@
 		24 Squander
 		24 Grotto Meditation
 		24 False Pretense
-		24 Unlikely Transformation
 		24 Ravine Rustler
 		24 Raggak Scraprunner
 		24 Forge-Thrull's Revenge
