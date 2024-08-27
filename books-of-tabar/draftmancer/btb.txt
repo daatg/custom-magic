@@ -360,12 +360,12 @@
 	        }
 	    },
 	    {
-	        "name": "Walk the Waterworks",
+	        "name": "Recalibrate",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Walk the Waterworks.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Recalibrate.jpg"
 	        }
 	    },
 	    {
@@ -515,7 +515,7 @@
 	    {
 	        "name": "Twenty-five Fingers",
 	        "rarity": "common",
-	        "mana_cost": "{5}{B}",
+	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Twenty-five Fingers.jpg"
@@ -648,12 +648,12 @@
 	        }
 	    },
 	    {
-	        "name": "Vein Fever",
+	        "name": "Demand Answers",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Vein Fever.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Demand Answers.jpg"
 	        }
 	    },
 	    {
@@ -1037,7 +1037,7 @@
 	    {
 	        "name": "False Pretense",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/False Pretense.jpg"
@@ -1629,12 +1629,12 @@
 	        }
 	    },
 	    {
-	        "name": "Deeptrunk Diviner",
+	        "name": "Eldroot Diviner",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deeptrunk Diviner.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Eldroot Diviner.jpg"
 	        }
 	    },
 	    {
@@ -2295,6 +2295,15 @@
 	        }
 	    },
 	    {
+	        "name": "Human Soldier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
+	        }
+	    },
+	    {
 	        "name": "Spider",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -2337,6 +2346,24 @@
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Platemail.jpg"
+	        }
+	    },
+	    {
+	        "name": "Platemail",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Platemail.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thrull",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Thrull ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
 	        }
 	    },
 	    {
@@ -2441,7 +2468,7 @@
 		2 Untapped Riches
 		2 Veinbelt Magmakite
 		2 Forgemelt Volley
-		2 Deeptrunk Diviner
+		2 Eldroot Diviner
 		2 Drisseu's Discovery
 		2 Deeparbor Auramancy
 		2 Mycelial Collosus
@@ -2598,7 +2625,7 @@
 		24 Premature Retirement
 		24 Pedantry
 		24 Pecking Order
-		24 Walk the Waterworks
+		24 Recalibrate
 		24 Cost of Progress
 		24 Mind Fly
 		24 Sletskev Malefactor
@@ -2628,7 +2655,7 @@
 		24 Unlicensed Aeromancer
 		24 Dynamo Discharge
 		24 Magma Tap
-		24 Vein Fever
+		24 Demand Answers
 		24 Prodigal Hands
 		24 Flamegush
 		24 Anvil Muscle
