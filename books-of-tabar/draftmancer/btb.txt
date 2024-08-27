@@ -2349,39 +2349,12 @@
 	        }
 	    },
 	    {
-	        "name": "Platemail",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Platemail.jpg"
-	        }
-	    },
-	    {
 	        "name": "Thrull",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Thrull ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
-	        }
-	    },
-	    {
-	        "name": "Thrull",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Thrull ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
-	        }
-	    },
-	    {
-	        "name": "Human Soldier",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
 	        }
 	    },
 	    {
