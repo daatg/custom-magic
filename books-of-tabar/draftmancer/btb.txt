@@ -1476,12 +1476,12 @@
 	        }
 	    },
 	    {
-	        "name": "Summons to Sletskev",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{U}",
-	        "type": "Enchantment",
+	        "name": "Archon of West Pitch",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}{U}",
+	        "type": "Legendary Creature — Sphinx ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Summons to Sletskev.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Archon of West Pitch.jpg"
 	        }
 	    },
 	    {
@@ -2179,7 +2179,7 @@
 	    },
 	    {
 	        "name": "Vurdwurm",
-	        "rarity": "mythic",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{G}{G}{U}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
@@ -2425,7 +2425,6 @@
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
-		2 Summons to Sletskev
 		2 Opulence of the Depths
 		2 Drisseu's Relinquish
 		2 Rootbrain Augur
@@ -2464,10 +2463,12 @@
 		2 Earthripper Shaman
 		2 Manapipe Saboteur
 		2 Watchmekan
+		2 Vurdwurm
 		2 Sletskev, Shackleward of Jun
 		2 Foretold Salvation
 		1 Fjal, Augur in Chief
 		1 Favri, Prodigal Alloysmith
+		1 Archon of West Pitch
 		1 Margin of Rout
 		1 Cithes, Tactician in Plans
 		1 Recontextualize
@@ -2479,7 +2480,6 @@
 		1 Aeonscaalt
 		1 Eldmantle
 		1 Monument to the Discovery
-		1 Vurdwurm
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
 		24 Fall Into Place
