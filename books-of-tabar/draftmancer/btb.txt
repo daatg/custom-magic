@@ -234,18 +234,18 @@
 	        }
 	    },
 	    {
-	        "name": "Charmstone Sentry",
+	        "name": "Jun Tabar Pikesentry",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Sentry.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Jun Tabar Pikesentry.jpg"
 	        }
 	    },
 	    {
 	        "name": "Dalk Warkite",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dalk Warkite.jpg"
@@ -281,7 +281,7 @@
 	    {
 	        "name": "Fall Into Place",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fall Into Place.jpg"
@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -596,7 +596,7 @@
 	    {
 	        "name": "Veinbelt Hire-Bully",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Minotaur Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Veinbelt Hire-Bully.jpg"
@@ -983,7 +983,7 @@
 	    {
 	        "name": "Disturbed Rhizome",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Plant Weird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Disturbed Rhizome.jpg"
@@ -1037,7 +1037,7 @@
 	    {
 	        "name": "False Pretense",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/False Pretense.jpg"
@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Unlikely Transformation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlikely Transformation.jpg"
@@ -1656,12 +1656,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mycelial Collosus",
+	        "name": "Testflesh",
 	        "rarity": "rare",
-	        "mana_cost": "{X}{G}",
-	        "type": "Creature — Fungus Avatar ",
+	        "mana_cost": "{X}{U}",
+	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mycelial Collosus.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Testflesh.jpg"
 	        }
 	    },
 	    {
@@ -1982,7 +1982,7 @@
 	    {
 	        "name": "Spelunker's Lens",
 	        "rarity": "rare",
-	        "mana_cost": "{3}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spelunker's Lens.jpg"
@@ -2295,12 +2295,12 @@
 	        }
 	    },
 	    {
-	        "name": "Human Soldier",
+	        "name": "Soldier",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Creature — Human Soldier ",
+	        "type": "Token Creature — Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Human Soldier.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2443,7 +2443,7 @@
 		2 Eldroot Diviner
 		2 Drisseu's Discovery
 		2 Deeparbor Auramancy
-		2 Mycelial Collosus
+		2 Testflesh
 		2 World Shaper
 		2 Grovewhisper
 		2 Magerune Baloth
@@ -2587,7 +2587,7 @@
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
-		24 Charmstone Sentry
+		24 Jun Tabar Pikesentry
 		24 Dalk Warkite
 		24 Sletskev Breakout
 		24 Overworked Augur
