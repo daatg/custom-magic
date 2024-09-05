@@ -290,7 +290,7 @@
 	    {
 	        "name": "Winds of Rebuke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{X}{X}{U}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Winds of Rebuke.jpg"
@@ -308,7 +308,7 @@
 	    {
 	        "name": "World From Word",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/World From Word.jpg"
@@ -596,19 +596,19 @@
 	    {
 	        "name": "Veinbelt Hire-Bully",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Minotaur Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Veinbelt Hire-Bully.jpg"
 	        }
 	    },
 	    {
-	        "name": "Salvomancer",
+	        "name": "Raggak Salvo Mage",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Goblin Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Salvomancer.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Salvo Mage.jpg"
 	        }
 	    },
 	    {
@@ -622,8 +622,8 @@
 	    },
 	    {
 	        "name": "Slagbreaker",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Slagbreaker.jpg"
@@ -1017,12 +1017,12 @@
 	        }
 	    },
 	    {
-	        "name": "Grotto Meditation",
+	        "name": "Flight Research",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Grotto Meditation.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Flight Research.jpg"
 	        }
 	    },
 	    {
@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Unlikely Transformation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{X}{X}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlikely Transformation.jpg"
@@ -1225,7 +1225,7 @@
 	    },
 	    {
 	        "name": "Raggak Scraprunner",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{R}",
 	        "type": "Creature — Goblin Warrior ",
 	        "image_uris": {
@@ -1262,19 +1262,19 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "common",
-	        "mana_cost": "{X}{R}",
+	        "mana_cost": "{6}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
 	        }
 	    },
 	    {
-	        "name": "Curdle",
+	        "name": "Seal the Position",
 	        "rarity": "uncommon",
-	        "mana_cost": "{X}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Curdle.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Seal the Position.jpg"
 	        }
 	    },
 	    {
@@ -1442,7 +1442,7 @@
 	    {
 	        "name": "Set Sequence",
 	        "rarity": "rare",
-	        "mana_cost": "{X}{X}{U}{U}",
+	        "mana_cost": "{1}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Set Sequence.jpg"
@@ -1496,7 +1496,7 @@
 	    {
 	        "name": "Sudden Size",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{U}{U}",
+	        "mana_cost": "{7}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
@@ -1658,7 +1658,7 @@
 	    {
 	        "name": "Testflesh",
 	        "rarity": "rare",
-	        "mana_cost": "{X}{U}",
+	        "mana_cost": "{U}{U}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Testflesh.jpg"
@@ -1757,7 +1757,7 @@
 	    {
 	        "name": "Tunnel Breach",
 	        "rarity": "mythic",
-	        "mana_cost": "{X}{X}{R}{R}",
+	        "mana_cost": "{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Tunnel Breach.jpg"
@@ -2349,12 +2349,39 @@
 	        }
 	    },
 	    {
+	        "name": "Platemail",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Platemail.jpg"
+	        }
+	    },
+	    {
 	        "name": "Thrull",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Thrull ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thrull",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Thrull ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soldier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2409,6 +2436,15 @@
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental.jpg"
 	        }
 	    }
 	]
@@ -2486,7 +2522,6 @@
 		24 Winds of Rebuke
 		24 Annotated Reproof
 		24 Kiln Fiend
-		24 Slagbreaker
 		24 Taprave Revel
 		24 Ten Men Strong
 		24 Doubleproof Bulwark
@@ -2523,10 +2558,11 @@
 		24 Igneous Wurm
 		24 Edge Case
 		24 Veinbelt Innovator
+		24 Raggak Scraprunner
 		24 Crackleshockomancy
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
-		24 Curdle
+		24 Seal the Position
 		24 Ranch Stalker
 		24 Angry Sow
 		24 Cobblecrack Shell
@@ -2624,8 +2660,9 @@
 		24 Shovel Rascal
 		24 Madcap Legionnaire
 		24 Veinbelt Hire-Bully
-		24 Salvomancer
+		24 Raggak Salvo Mage
 		24 Unlicensed Aeromancer
+		24 Slagbreaker
 		24 Dynamo Discharge
 		24 Magma Tap
 		24 Demand Answers
@@ -2653,10 +2690,9 @@
 		24 Pit Fight Spoils
 		24 Fated Fall
 		24 Squander
-		24 Grotto Meditation
+		24 Flight Research
 		24 False Pretense
 		24 Ravine Rustler
-		24 Raggak Scraprunner
 		24 Forge-Thrull's Revenge
 		24 Servant of Industry
 		24 Cavecharm
