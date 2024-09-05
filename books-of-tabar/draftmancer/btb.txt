@@ -245,7 +245,7 @@
 	    {
 	        "name": "Dalk Warkite",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dalk Warkite.jpg"
@@ -290,7 +290,7 @@
 	    {
 	        "name": "Winds of Rebuke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{U}{U}",
+	        "mana_cost": "{X}{X}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Winds of Rebuke.jpg"
@@ -326,7 +326,7 @@
 	    {
 	        "name": "Premature Retirement",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Premature Retirement.jpg"
@@ -353,7 +353,7 @@
 	    {
 	        "name": "Pecking Order",
 	        "rarity": "common",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
@@ -596,7 +596,7 @@
 	    {
 	        "name": "Veinbelt Hire-Bully",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Minotaur Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Veinbelt Hire-Bully.jpg"
@@ -621,18 +621,18 @@
 	        }
 	    },
 	    {
-	        "name": "Fissurebreaker",
+	        "name": "Slagbreaker",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fissurebreaker.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Slagbreaker.jpg"
 	        }
 	    },
 	    {
 	        "name": "Dynamo Discharge",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dynamo Discharge.jpg"
@@ -981,18 +981,18 @@
 	        }
 	    },
 	    {
-	        "name": "Disturbed Rhizome",
+	        "name": "Noriamancy",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
-	        "type": "Creature — Plant Weird ",
+	        "mana_cost": "{X}{U}{U}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Disturbed Rhizome.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Noriamancy.jpg"
 	        }
 	    },
 	    {
 	        "name": "Book Fluke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Book Fluke.jpg"
@@ -1055,7 +1055,7 @@
 	    {
 	        "name": "Unlikely Transformation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{X}{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlikely Transformation.jpg"
@@ -1262,19 +1262,19 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
 	        }
 	    },
 	    {
-	        "name": "Glassmail Heavy Infantry",
+	        "name": "Curdle",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}{R}{R}",
-	        "type": "Creature — Human Soldier ",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Glassmail Heavy Infantry.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Curdle.jpg"
 	        }
 	    },
 	    {
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mistranslated Name",
+	        "name": "Set Sequence",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{U}",
-	        "type": "Instant",
+	        "mana_cost": "{X}{X}{U}{U}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mistranslated Name.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Set Sequence.jpg"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	    {
 	        "name": "Sudden Size",
 	        "rarity": "uncommon",
-	        "mana_cost": "{6}{U}",
+	        "mana_cost": "{5}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
@@ -2108,7 +2108,7 @@
 	    {
 	        "name": "Rock and Brimstone",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rock and Brimstone.jpg"
@@ -2410,6 +2410,15 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spirit.jpg"
 	        }
+	    },
+	    {
+	        "name": "Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental.jpg"
+	        }
 	    }
 	]
 	[RareSlot(1)]
@@ -2421,7 +2430,7 @@
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Mistranslated Name
+		2 Set Sequence
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2486,7 +2495,7 @@
 		24 Winds of Rebuke
 		24 Annotated Reproof
 		24 Kiln Fiend
-		24 Fissurebreaker
+		24 Slagbreaker
 		24 Taprave Revel
 		24 Ten Men Strong
 		24 Doubleproof Bulwark
@@ -2499,7 +2508,7 @@
 		24 No Risks
 		24 Decided Devotion
 		24 Preachsergeant
-		24 Disturbed Rhizome
+		24 Noriamancy
 		24 Book Fluke
 		24 Direflock Summons
 		24 Ephemera Seer
@@ -2526,7 +2535,7 @@
 		24 Crackleshockomancy
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
-		24 Glassmail Heavy Infantry
+		24 Curdle
 		24 Ranch Stalker
 		24 Angry Sow
 		24 Cobblecrack Shell
