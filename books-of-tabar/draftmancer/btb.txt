@@ -2410,15 +2410,6 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spirit.jpg"
 	        }
-	    },
-	    {
-	        "name": "Elemental",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Elemental ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental.jpg"
-	        }
 	    }
 	]
 	[RareSlot(1)]
