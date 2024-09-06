@@ -551,7 +551,7 @@
 	    {
 	        "name": "Bushwhack Adept",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{R}",
 	        "type": "Creature — Goblin Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bushwhack Adept.jpg"
@@ -1225,8 +1225,8 @@
 	    },
 	    {
 	        "name": "Raggak Scraprunner",
-	        "rarity": "uncommon",
-	        "mana_cost": "{R}",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Goblin Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Scraprunner.jpg"
@@ -1261,7 +1261,7 @@
 	    },
 	    {
 	        "name": "Forge-Thrull's Revenge",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{6}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -2410,7 +2410,7 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spirit.jpg"
 	        }
-	    },
+	    }
 	]
 	[RareSlot(1)]
 		2 Infantry Readysmith
@@ -2522,10 +2522,10 @@
 		24 Igneous Wurm
 		24 Edge Case
 		24 Veinbelt Innovator
-		24 Raggak Scraprunner
 		24 Crackleshockomancy
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
+		24 Forge-Thrull's Revenge
 		24 Seal the Position
 		24 Ranch Stalker
 		24 Angry Sow
@@ -2657,7 +2657,7 @@
 		24 Flight Research
 		24 False Pretense
 		24 Ravine Rustler
-		24 Forge-Thrull's Revenge
+		24 Raggak Scraprunner
 		24 Servant of Industry
 		24 Cavecharm
 		24 Eschaton Cloak
