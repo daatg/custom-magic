@@ -155,7 +155,7 @@
 	    {
 	        "name": "Rise to the Occasion",
 	        "rarity": "common",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rise to the Occasion.jpg"
@@ -288,12 +288,12 @@
 	        }
 	    },
 	    {
-	        "name": "Winds of Rebuke",
+	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Winds of Rebuke.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
 	        }
 	    },
 	    {
@@ -351,12 +351,12 @@
 	        }
 	    },
 	    {
-	        "name": "Pecking Order",
+	        "name": "Mental Note",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pecking Order.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mental Note.jpg"
 	        }
 	    },
 	    {
@@ -1035,12 +1035,12 @@
 	        }
 	    },
 	    {
-	        "name": "False Pretense",
+	        "name": "Adopt By Æther",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/False Pretense.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Adopt By Æther.jpg"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "uncommon",
-	        "mana_cost": "{6}{R}",
+	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
@@ -1334,7 +1334,7 @@
 	    {
 	        "name": "Deeparbor Scion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deeparbor Scion.jpg"
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Set Sequence",
+	        "name": "Comissioned Sequence",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Set Sequence.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Comissioned Sequence.jpg"
 	        }
 	    },
 	    {
@@ -2079,12 +2079,12 @@
 	        }
 	    },
 	    {
-	        "name": "Acid Weaver",
+	        "name": "Acid Web Spider",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Acid Weaver.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Acid Web Spider.jpg"
 	        }
 	    },
 	    {
@@ -2421,7 +2421,7 @@
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Set Sequence
+		2 Comissioned Sequence
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2483,7 +2483,7 @@
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
 		24 Fall Into Place
-		24 Winds of Rebuke
+		24 Aeonfog
 		24 Annotated Reproof
 		24 Kiln Fiend
 		24 Taprave Revel
@@ -2558,7 +2558,7 @@
 		24 Ghoulcaller's Bell
 		24 Raggak Gravetiller
 		24 Foreboded Fauna
-		24 Acid Weaver
+		24 Acid Web Spider
 		24 Vanish From Garb
 		24 Forge-Thrull Ransack
 		24 Jun Stitcher-Surgeon
@@ -2597,7 +2597,7 @@
 		24 In Due Course
 		24 Premature Retirement
 		24 Pedantry
-		24 Pecking Order
+		24 Mental Note
 		24 Recalibrate
 		24 Cost of Progress
 		24 Mind Fly
@@ -2655,7 +2655,7 @@
 		24 Fated Fall
 		24 Squander
 		24 Flight Research
-		24 False Pretense
+		24 Adopt By Æther
 		24 Ravine Rustler
 		24 Raggak Scraprunner
 		24 Servant of Industry
