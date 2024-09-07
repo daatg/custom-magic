@@ -63,12 +63,12 @@
 	        }
 	    },
 	    {
-	        "name": "Conscript by Birth",
+	        "name": "Conscription by Birth",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Conscript by Birth.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Conscription by Birth.jpg"
 	        }
 	    },
 	    {
@@ -235,7 +235,7 @@
 	    },
 	    {
 	        "name": "Jun Tabar Pikesentry",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
@@ -290,7 +290,7 @@
 	    {
 	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
@@ -991,7 +991,7 @@
 	    },
 	    {
 	        "name": "Book Fluke",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
@@ -1782,12 +1782,12 @@
 	        }
 	    },
 	    {
-	        "name": "Conservancy Watchlight",
+	        "name": "Ministry Taskmaster",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{U}",
-	        "type": "Creature — Wall ",
+	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Conservancy Watchlight.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Ministry Taskmaster.jpg"
 	        }
 	    },
 	    {
@@ -1881,12 +1881,12 @@
 	        }
 	    },
 	    {
-	        "name": "Patrolled Parapet",
+	        "name": "Penalty and Basis",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}{U}",
-	        "type": "Creature — Wall ",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Patrolled Parapet.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Penalty and Basis.jpg"
 	        }
 	    },
 	    {
@@ -1919,7 +1919,7 @@
 	    {
 	        "name": "Cavecharm",
 	        "rarity": "common",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cavecharm.jpg"
@@ -2451,7 +2451,7 @@
 		2 Slaughterpug
 		2 Hexmail Masterfitter
 		2 Geist of the Quiet Wait
-		2 Patrolled Parapet
+		2 Penalty and Basis
 		2 Cavetomb Callings
 		2 Zemt, Eye of the Undercity
 		2 Spelunker's Lens
@@ -2482,6 +2482,7 @@
 		1 Monument to the Discovery
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
+		24 Jun Tabar Pikesentry
 		24 Fall Into Place
 		24 Aeonfog
 		24 Annotated Reproof
@@ -2499,7 +2500,6 @@
 		24 Decided Devotion
 		24 Preachsergeant
 		24 Noriamancy
-		24 Book Fluke
 		24 Direflock Summons
 		24 Ephemera Seer
 		24 Centurystorm
@@ -2539,7 +2539,7 @@
 		24 Rootcrux Harkonings
 		24 Bulking Season
 		24 Sudden Size
-		24 Conservancy Watchlight
+		24 Ministry Taskmaster
 		24 Towering Auramancer
 		24 Outlands Missionary
 		24 Petty-Thrull Squad Captain
@@ -2568,7 +2568,7 @@
 		24 Believer in the Plan
 		24 Fulfillment Specialist
 		24 Outlands Brute
-		24 Conscript by Birth
+		24 Conscription by Birth
 		24 Cleric of the Absolute
 		24 Flamevein Watchkeep
 		24 Tazeem Raptor
@@ -2587,7 +2587,6 @@
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
-		24 Jun Tabar Pikesentry
 		24 Dalk Warkite
 		24 Sletskev Breakout
 		24 Overworked Augur
@@ -2654,6 +2653,7 @@
 		24 Pit Fight Spoils
 		24 Fated Fall
 		24 Squander
+		24 Book Fluke
 		24 Flight Research
 		24 Adopt By Æther
 		24 Ravine Rustler
