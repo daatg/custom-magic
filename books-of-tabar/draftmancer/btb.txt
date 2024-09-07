@@ -290,7 +290,7 @@
 	    {
 	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
@@ -1782,12 +1782,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ministry Taskmaster",
+	        "name": "Priest of Preenlistment",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{U}",
-	        "type": "Creature — Human Wizard ",
+	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Ministry Taskmaster.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Priest of Preenlistment.jpg"
 	        }
 	    },
 	    {
@@ -2539,7 +2539,7 @@
 		24 Rootcrux Harkonings
 		24 Bulking Season
 		24 Sudden Size
-		24 Ministry Taskmaster
+		24 Priest of Preenlistment
 		24 Towering Auramancer
 		24 Outlands Missionary
 		24 Petty-Thrull Squad Captain
