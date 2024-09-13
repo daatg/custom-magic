@@ -549,12 +549,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bushwhack Adept",
+	        "name": "Bushwhack Chant",
 	        "rarity": "common",
-	        "mana_cost": "{R}",
-	        "type": "Creature — Goblin Scout ",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bushwhack Adept.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bushwhack Chant.jpg"
 	        }
 	    },
 	    {
@@ -587,25 +587,25 @@
 	    {
 	        "name": "Madcap Legionnaire",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Giant Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Madcap Legionnaire.jpg"
 	        }
 	    },
 	    {
-	        "name": "Veinbelt Hire-Bully",
+	        "name": "Smeltkeeper",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Minotaur Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Veinbelt Hire-Bully.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Smeltkeeper.jpg"
 	        }
 	    },
 	    {
 	        "name": "Raggak Salvo Mage",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Goblin Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Salvo Mage.jpg"
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Forge-Thrull's Revenge",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}{R}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
@@ -1334,7 +1334,7 @@
 	    {
 	        "name": "Deeparbor Scion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}{G}",
+	        "mana_cost": "{2}{G}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deeparbor Scion.jpg"
@@ -1397,7 +1397,7 @@
 	    {
 	        "name": "Helinar Impressor",
 	        "rarity": "rare",
-	        "mana_cost": "{W}{W}",
+	        "mana_cost": "{W}{W}{W}",
 	        "type": "Creature — Giant Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Helinar Impressor.jpg"
@@ -1694,19 +1694,19 @@
 	    {
 	        "name": "Margin of Rout",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Solider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Margin of Rout.jpg"
 	        }
 	    },
 	    {
-	        "name": "Cithes, Tactician in Plans",
+	        "name": "Cithes, Schema-Marshal",
 	        "rarity": "mythic",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cithes, Tactician in Plans.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cithes, Schema-Marshal.jpg"
 	        }
 	    },
 	    {
@@ -2470,7 +2470,7 @@
 		1 Favri, Prodigal Alloysmith
 		1 Archon of West Pitch
 		1 Margin of Rout
-		1 Cithes, Tactician in Plans
+		1 Cithes, Schema-Marshal
 		1 Recontextualize
 		1 Untelling
 		1 Augury of the End
@@ -2618,11 +2618,11 @@
 		24 Scrape the Mindflesh
 		24 Heathen's Abandon
 		24 Flamevein Warlord
-		24 Bushwhack Adept
+		24 Bushwhack Chant
 		24 Smoulder Fiend
 		24 Shovel Rascal
 		24 Madcap Legionnaire
-		24 Veinbelt Hire-Bully
+		24 Smeltkeeper
 		24 Raggak Salvo Mage
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
