@@ -587,19 +587,19 @@
 	    {
 	        "name": "Madcap Legionnaire",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Giant Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Madcap Legionnaire.jpg"
 	        }
 	    },
 	    {
-	        "name": "Smeltkeeper",
+	        "name": "Plategeist",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Minotaur Mercenary ",
+	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Smeltkeeper.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Plategeist.jpg"
 	        }
 	    },
 	    {
@@ -614,7 +614,7 @@
 	    {
 	        "name": "Unlicensed Aeromancer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlicensed Aeromancer.jpg"
@@ -2622,7 +2622,7 @@
 		24 Smoulder Fiend
 		24 Shovel Rascal
 		24 Madcap Legionnaire
-		24 Smeltkeeper
+		24 Plategeist
 		24 Raggak Salvo Mage
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
