@@ -155,7 +155,7 @@
 	    {
 	        "name": "Rise to the Occasion",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rise to the Occasion.jpg"
@@ -234,12 +234,12 @@
 	        }
 	    },
 	    {
-	        "name": "Jun Tabar Pikesentry",
-	        "rarity": "uncommon",
+	        "name": "Charmstone Watchkeep",
+	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Jun Tabar Pikesentry.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
 	        }
 	    },
 	    {
@@ -279,19 +279,19 @@
 	        }
 	    },
 	    {
-	        "name": "Fall Into Place",
-	        "rarity": "uncommon",
+	        "name": "Deduce in Total",
+	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fall Into Place.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deduce in Total.jpg"
 	        }
 	    },
 	    {
 	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
 	        }
@@ -308,8 +308,8 @@
 	    {
 	        "name": "World From Word",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "mana_cost": "{U}{U}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/World From Word.jpg"
 	        }
@@ -360,12 +360,12 @@
 	        }
 	    },
 	    {
-	        "name": "Recalibrate",
-	        "rarity": "common",
+	        "name": "Depth-Mad Dagu",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "type": "Creature — Imp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Recalibrate.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Depth-Mad Dagu.jpg"
 	        }
 	    },
 	    {
@@ -405,12 +405,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bubbleflesh Summons",
+	        "name": "Writ of Flesh",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bubbleflesh Summons.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Writ of Flesh.jpg"
 	        }
 	    },
 	    {
@@ -549,12 +549,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bushwhack Chant",
+	        "name": "Valley Bushwhacking",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bushwhack Chant.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Valley Bushwhacking.jpg"
 	        }
 	    },
 	    {
@@ -927,12 +927,12 @@
 	        }
 	    },
 	    {
-	        "name": "Colony Scrapspotter",
+	        "name": "Uncouple",
 	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
-	        "type": "Creature — Goblin Soldier ",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Colony Scrapspotter.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Uncouple.jpg"
 	        }
 	    },
 	    {
@@ -991,7 +991,7 @@
 	    },
 	    {
 	        "name": "Book Fluke",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
@@ -1008,12 +1008,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ephemera Seer",
+	        "name": "Faultsermat",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Ephemera Seer.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Faultsermat.jpg"
 	        }
 	    },
 	    {
@@ -1037,7 +1037,7 @@
 	    {
 	        "name": "Adopt By Æther",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Adopt By Æther.jpg"
@@ -1053,12 +1053,12 @@
 	        }
 	    },
 	    {
-	        "name": "Unlikely Transformation",
-	        "rarity": "uncommon",
+	        "name": "Augur of Warrants",
+	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlikely Transformation.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Augur of Warrants.jpg"
 	        }
 	    },
 	    {
@@ -1260,12 +1260,12 @@
 	        }
 	    },
 	    {
-	        "name": "Forge-Thrull's Revenge",
+	        "name": "Poach-Camp Revelers",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Sorcery",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forge-Thrull's Revenge.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Poach-Camp Revelers.jpg"
 	        }
 	    },
 	    {
@@ -1296,12 +1296,12 @@
 	        }
 	    },
 	    {
-	        "name": "Cobblecrack Shell",
-	        "rarity": "uncommon",
-	        "mana_cost": "{G}{G}",
-	        "type": "Enchantment — Aura ",
+	        "name": "Pilgrim of Depths",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Imp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Cobblecrack Shell.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pilgrim of Depths.jpg"
 	        }
 	    },
 	    {
@@ -1359,12 +1359,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rootcrux Harkonings",
+	        "name": "Beast's Day",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rootcrux Harkonings.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Beast's Day.jpg"
 	        }
 	    },
 	    {
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Comissioned Sequence",
+	        "name": "Force of History",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
-	        "type": "Sorcery",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Comissioned Sequence.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Force of History.jpg"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	    {
 	        "name": "Sudden Size",
 	        "rarity": "uncommon",
-	        "mana_cost": "{7}{U}{U}",
+	        "mana_cost": "{5}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
@@ -1630,7 +1630,7 @@
 	    },
 	    {
 	        "name": "Eldroot Diviner",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
@@ -1757,7 +1757,7 @@
 	    {
 	        "name": "Tunnel Breach",
 	        "rarity": "mythic",
-	        "mana_cost": "{R}{R}",
+	        "mana_cost": "{1}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Tunnel Breach.jpg"
@@ -2415,13 +2415,14 @@
 	[RareSlot(1)]
 		2 Infantry Readysmith
 		2 Outwoods Hydra
+		2 Pilgrim of Depths
 		2 Arbiter of Truth
 		2 Drisseu's Conservancy
 		2 Helinar Impressor
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Comissioned Sequence
+		2 Force of History
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2440,7 +2441,6 @@
 		2 Untapped Riches
 		2 Veinbelt Magmakite
 		2 Forgemelt Volley
-		2 Eldroot Diviner
 		2 Drisseu's Discovery
 		2 Deeparbor Auramancy
 		2 Testflesh
@@ -2482,10 +2482,9 @@
 		1 Monument to the Discovery
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
-		24 Jun Tabar Pikesentry
-		24 Fall Into Place
 		24 Aeonfog
 		24 Annotated Reproof
+		24 Depth-Mad Dagu
 		24 Kiln Fiend
 		24 Taprave Revel
 		24 Ten Men Strong
@@ -2493,18 +2492,18 @@
 		24 Giantsuit Stiltsmith
 		24 Contravene
 		24 Holy Censor
-		24 Colony Scrapspotter
+		24 Uncouple
 		24 Forgegiest
 		24 Diviner's Hawk
 		24 No Risks
 		24 Decided Devotion
 		24 Preachsergeant
 		24 Noriamancy
+		24 Book Fluke
 		24 Direflock Summons
-		24 Ephemera Seer
+		24 Faultsermat
 		24 Centurystorm
 		24 Deepsphinx
-		24 Unlikely Transformation
 		24 Editorial Censorship
 		24 Rooftop View
 		24 Lethal Itinerary
@@ -2525,20 +2524,20 @@
 		24 Crackleshockomancy
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
-		24 Forge-Thrull's Revenge
+		24 Poach-Camp Revelers
 		24 Seal the Position
 		24 Ranch Stalker
 		24 Angry Sow
-		24 Cobblecrack Shell
 		24 Perennial Wurm
 		24 Local Folktale
 		24 Twinshell Beetlebeast
 		24 Deeparbor Scion
 		24 Champion of the Litter
 		24 Sandarmor Ecclesiast
-		24 Rootcrux Harkonings
+		24 Beast's Day
 		24 Bulking Season
 		24 Sudden Size
+		24 Eldroot Diviner
 		24 Priest of Preenlistment
 		24 Towering Auramancer
 		24 Outlands Missionary
@@ -2587,22 +2586,23 @@
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
+		24 Charmstone Watchkeep
 		24 Dalk Warkite
 		24 Sletskev Breakout
 		24 Overworked Augur
 		24 Wellborne Cobbleskate
+		24 Deduce in Total
 		24 Aqueous Form
 		24 World From Word
 		24 In Due Course
 		24 Premature Retirement
 		24 Pedantry
 		24 Mental Note
-		24 Recalibrate
 		24 Cost of Progress
 		24 Mind Fly
 		24 Sletskev Malefactor
 		24 Miasmageist
-		24 Bubbleflesh Summons
+		24 Writ of Flesh
 		24 Tunnel Fiend
 		24 Spoilbrain
 		24 Fearèd Mass
@@ -2618,7 +2618,7 @@
 		24 Scrape the Mindflesh
 		24 Heathen's Abandon
 		24 Flamevein Warlord
-		24 Bushwhack Chant
+		24 Valley Bushwhacking
 		24 Smoulder Fiend
 		24 Shovel Rascal
 		24 Madcap Legionnaire
@@ -2653,9 +2653,9 @@
 		24 Pit Fight Spoils
 		24 Fated Fall
 		24 Squander
-		24 Book Fluke
 		24 Flight Research
 		24 Adopt By Æther
+		24 Augur of Warrants
 		24 Ravine Rustler
 		24 Raggak Scraprunner
 		24 Servant of Industry
