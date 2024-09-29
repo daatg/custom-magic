@@ -198,12 +198,12 @@
 	        }
 	    },
 	    {
-	        "name": "Weird of the Word",
+	        "name": "Somber Valleygeist",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
-	        "type": "Creature — Weird ",
+	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Weird of the Word.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Somber Valleygeist.jpg"
 	        }
 	    },
 	    {
@@ -236,7 +236,7 @@
 	    {
 	        "name": "Charmstone Watchkeep",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
@@ -452,7 +452,7 @@
 	    {
 	        "name": "Passed From Bond",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}{B}",
+	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Passed From Bond.jpg"
@@ -549,12 +549,12 @@
 	        }
 	    },
 	    {
-	        "name": "Valley Bushwhacking",
+	        "name": "Raider's Instinct",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Valley Bushwhacking.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raider's Instinct.jpg"
 	        }
 	    },
 	    {
@@ -630,12 +630,12 @@
 	        }
 	    },
 	    {
-	        "name": "Dynamo Discharge",
+	        "name": "Mugging",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dynamo Discharge.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mugging.jpg"
 	        }
 	    },
 	    {
@@ -714,7 +714,7 @@
 	        "name": "Outcity Poacher",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
-	        "type": "Creature — Elf Ranger ",
+	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outcity Poacher.jpg"
 	        }
@@ -786,7 +786,7 @@
 	        "name": "Deeptrunk Shaman",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Elf Shaman ",
+	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deeptrunk Shaman.jpg"
 	        }
@@ -1009,9 +1009,9 @@
 	    },
 	    {
 	        "name": "Faultsermat",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Elf Shaman ",
+	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Faultsermat.jpg"
 	        }
@@ -1053,12 +1053,12 @@
 	        }
 	    },
 	    {
-	        "name": "Augur of Warrants",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "name": "Augur of Itinerary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Augur of Warrants.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Augur of Itinerary.jpg"
 	        }
 	    },
 	    {
@@ -1632,7 +1632,7 @@
 	        "name": "Eldroot Diviner",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Elf Shaman ",
+	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Eldroot Diviner.jpg"
 	        }
@@ -2100,7 +2100,7 @@
 	        "name": "Outpath Navigator",
 	        "rarity": "rare",
 	        "mana_cost": "{G}{W}",
-	        "type": "Creature — Elf Rogue ",
+	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outpath Navigator.jpg"
 	        }
@@ -2501,9 +2501,9 @@
 		24 Noriamancy
 		24 Book Fluke
 		24 Direflock Summons
-		24 Faultsermat
 		24 Centurystorm
 		24 Deepsphinx
+		24 Augur of Itinerary
 		24 Editorial Censorship
 		24 Rooftop View
 		24 Lethal Itinerary
@@ -2582,7 +2582,7 @@
 		24 Inevitable Downfall
 		24 Rehearsed Rebuke
 		24 Puresteel Assault
-		24 Weird of the Word
+		24 Somber Valleygeist
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
@@ -2618,7 +2618,7 @@
 		24 Scrape the Mindflesh
 		24 Heathen's Abandon
 		24 Flamevein Warlord
-		24 Valley Bushwhacking
+		24 Raider's Instinct
 		24 Smoulder Fiend
 		24 Shovel Rascal
 		24 Madcap Legionnaire
@@ -2626,7 +2626,7 @@
 		24 Raggak Salvo Mage
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
-		24 Dynamo Discharge
+		24 Mugging
 		24 Magma Tap
 		24 Demand Answers
 		24 Prodigal Hands
@@ -2653,9 +2653,9 @@
 		24 Pit Fight Spoils
 		24 Fated Fall
 		24 Squander
+		24 Faultsermat
 		24 Flight Research
 		24 Adopt By Æther
-		24 Augur of Warrants
 		24 Ravine Rustler
 		24 Raggak Scraprunner
 		24 Servant of Industry
