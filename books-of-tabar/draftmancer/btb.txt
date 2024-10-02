@@ -236,7 +236,7 @@
 	    {
 	        "name": "Charmstone Watchkeep",
 	        "rarity": "common",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
@@ -245,7 +245,7 @@
 	    {
 	        "name": "Dalk Warkite",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dalk Warkite.jpg"
@@ -290,8 +290,8 @@
 	    {
 	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
-	        "type": "Sorcery",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
 	        }
@@ -326,7 +326,7 @@
 	    {
 	        "name": "Premature Retirement",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Premature Retirement.jpg"
@@ -549,12 +549,12 @@
 	        }
 	    },
 	    {
-	        "name": "Raider's Instinct",
+	        "name": "Boltburst",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raider's Instinct.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Boltburst.jpg"
 	        }
 	    },
 	    {
@@ -929,8 +929,8 @@
 	    {
 	        "name": "Uncouple",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{W}",
-	        "type": "Sorcery",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Uncouple.jpg"
 	        }
@@ -1010,7 +1010,7 @@
 	    {
 	        "name": "Faultsermat",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Faultsermat.jpg"
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Poach-Camp Revelers",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Poach-Camp Revelers.jpg"
@@ -1272,7 +1272,7 @@
 	        "name": "Seal the Position",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Seal the Position.jpg"
 	        }
@@ -2627,7 +2627,7 @@
 		24 Scrape the Mindflesh
 		24 Heathen's Abandon
 		24 Flamevein Warlord
-		24 Raider's Instinct
+		24 Boltburst
 		24 Smoulder Fiend
 		24 Shovel Rascal
 		24 Madcap Legionnaire
