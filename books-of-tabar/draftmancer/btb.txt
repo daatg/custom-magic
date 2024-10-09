@@ -326,7 +326,7 @@
 	    {
 	        "name": "Premature Retirement",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Premature Retirement.jpg"
@@ -992,7 +992,7 @@
 	    {
 	        "name": "Book Fluke",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Creature — Illusion Pest ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Book Fluke.jpg"
@@ -1199,7 +1199,7 @@
 	    {
 	        "name": "Edge Case",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}",
+	        "mana_cost": "{0}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Edge Case.jpg"
@@ -1271,7 +1271,7 @@
 	    {
 	        "name": "Seal the Position",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Seal the Position.jpg"
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Force of History",
+	        "name": "Force of Enclosure",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{U}{U}",
+	        "mana_cost": "{0}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Force of History.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Force of Enclosure.jpg"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	    {
 	        "name": "Sudden Size",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{U}{U}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sudden Size.jpg"
@@ -1629,12 +1629,12 @@
 	        }
 	    },
 	    {
-	        "name": "Eldroot Diviner",
+	        "name": "Push Too Far",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Human Shaman ",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Eldroot Diviner.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Push Too Far.jpg"
 	        }
 	    },
 	    {
@@ -2431,7 +2431,7 @@
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Force of History
+		2 Force of Enclosure
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2546,7 +2546,7 @@
 		24 Beast's Day
 		24 Bulking Season
 		24 Sudden Size
-		24 Eldroot Diviner
+		24 Push Too Far
 		24 Priest of Preenlistment
 		24 Towering Auramancer
 		24 Outlands Missionary
