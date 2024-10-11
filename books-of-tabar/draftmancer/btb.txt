@@ -1820,7 +1820,7 @@
 	    {
 	        "name": "Reckless Iterator",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{R}",
+	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Goblin ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Reckless Iterator.jpg"
