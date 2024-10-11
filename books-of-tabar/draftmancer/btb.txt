@@ -324,12 +324,12 @@
 	        }
 	    },
 	    {
-	        "name": "Premature Retirement",
+	        "name": "Detain and Search",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
-	        "type": "Enchantment — Aura ",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Premature Retirement.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Detain and Search.jpg"
 	        }
 	    },
 	    {
@@ -362,7 +362,7 @@
 	    {
 	        "name": "Depth-Mad Dagu",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Imp ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Depth-Mad Dagu.jpg"
@@ -567,12 +567,12 @@
 	        }
 	    },
 	    {
-	        "name": "Shovel Rascal",
+	        "name": "Peak Marauder",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Goblin ",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Goblin Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Shovel Rascal.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Peak Marauder.jpg"
 	        }
 	    },
 	    {
@@ -603,18 +603,18 @@
 	        }
 	    },
 	    {
-	        "name": "Raggak Salvo Mage",
+	        "name": "Chainsalvo Conjurer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Goblin Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Salvo Mage.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Chainsalvo Conjurer.jpg"
 	        }
 	    },
 	    {
 	        "name": "Unlicensed Aeromancer",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Unlicensed Aeromancer.jpg"
@@ -630,12 +630,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mugging",
+	        "name": "Kindle Purpose",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mugging.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Kindle Purpose.jpg"
 	        }
 	    },
 	    {
@@ -1233,12 +1233,12 @@
 	        }
 	    },
 	    {
-	        "name": "Crackleshockomancy",
+	        "name": "Seething Substrate",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}",
-	        "type": "Enchantment — Aura ",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Crackleshockomancy.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Seething Substrate.jpg"
 	        }
 	    },
 	    {
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Force of Enclosure",
+	        "name": "Enclosure",
 	        "rarity": "rare",
 	        "mana_cost": "{0}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Force of Enclosure.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Enclosure.jpg"
 	        }
 	    },
 	    {
@@ -2431,7 +2431,7 @@
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Force of Enclosure
+		2 Enclosure
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2530,7 +2530,7 @@
 		24 Igneous Wurm
 		24 Edge Case
 		24 Veinbelt Innovator
-		24 Crackleshockomancy
+		24 Seething Substrate
 		24 Flamepress Field Labs
 		24 Veinsteel Platesmith
 		24 Poach-Camp Revelers
@@ -2604,7 +2604,7 @@
 		24 Aqueous Form
 		24 World From Word
 		24 In Due Course
-		24 Premature Retirement
+		24 Detain and Search
 		24 Pedantry
 		24 Mental Note
 		24 Cost of Progress
@@ -2629,13 +2629,13 @@
 		24 Flamevein Warlord
 		24 Boltburst
 		24 Smoulder Fiend
-		24 Shovel Rascal
+		24 Peak Marauder
 		24 Madcap Legionnaire
 		24 Plategeist
-		24 Raggak Salvo Mage
+		24 Chainsalvo Conjurer
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
-		24 Mugging
+		24 Kindle Purpose
 		24 Magma Tap
 		24 Demand Answers
 		24 Prodigal Hands
