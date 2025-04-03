@@ -1,11 +1,11 @@
 [CustomCards]
 	[    {
-	        "name": "Fjal, Augur in Chief",
+	        "name": "Klaje, Grand Proctor",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{W}{W}{U}{U}",
+	        "mana_cost": "{1}{W}{U}{U}",
 	        "type": "Legendary Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fjal, Augur in Chief.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Klaje, Grand Proctor.jpg"
 	        }
 	    },
 	    {
@@ -198,12 +198,12 @@
 	        }
 	    },
 	    {
-	        "name": "Somber Valleygeist",
+	        "name": "Weird of the Word",
 	        "rarity": "common",
-	        "mana_cost": "{U}",
-	        "type": "Creature — Spirit ",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Weird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Somber Valleygeist.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Weird of the Word.jpg"
 	        }
 	    },
 	    {
@@ -236,7 +236,7 @@
 	    {
 	        "name": "Charmstone Watchkeep",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
@@ -245,7 +245,7 @@
 	    {
 	        "name": "Dalk Warkite",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Dalk Warkite.jpg"
@@ -290,7 +290,7 @@
 	    {
 	        "name": "Aeonfog",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonfog.jpg"
@@ -324,12 +324,12 @@
 	        }
 	    },
 	    {
-	        "name": "Detain and Search",
+	        "name": "Bureau's Persecuted",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Detain and Search.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bureau's Persecuted.jpg"
 	        }
 	    },
 	    {
@@ -549,12 +549,12 @@
 	        }
 	    },
 	    {
-	        "name": "Boltburst",
+	        "name": "Raggak Flagbearer",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Instant",
+	        "type": "Creature — Goblin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Boltburst.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Raggak Flagbearer.jpg"
 	        }
 	    },
 	    {
@@ -567,12 +567,12 @@
 	        }
 	    },
 	    {
-	        "name": "Peak Marauder",
+	        "name": "Greasy Veinsire",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Goblin Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Peak Marauder.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Greasy Veinsire.jpg"
 	        }
 	    },
 	    {
@@ -605,7 +605,7 @@
 	    {
 	        "name": "Chainsalvo Conjurer",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Goblin Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Chainsalvo Conjurer.jpg"
@@ -630,12 +630,12 @@
 	        }
 	    },
 	    {
-	        "name": "Kindle Purpose",
+	        "name": "Forstoke",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Kindle Purpose.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forstoke.jpg"
 	        }
 	    },
 	    {
@@ -675,12 +675,12 @@
 	        }
 	    },
 	    {
-	        "name": "Taprave Revel",
+	        "name": "Slagtap Revel",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Taprave Revel.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Slagtap Revel.jpg"
 	        }
 	    },
 	    {
@@ -1010,7 +1010,7 @@
 	    {
 	        "name": "Faultsermat",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Faultsermat.jpg"
@@ -1199,7 +1199,7 @@
 	    {
 	        "name": "Edge Case",
 	        "rarity": "uncommon",
-	        "mana_cost": "{0}",
+	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Edge Case.jpg"
@@ -1262,7 +1262,7 @@
 	    {
 	        "name": "Poach-Camp Revelers",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Poach-Camp Revelers.jpg"
@@ -1440,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Enclosure",
+	        "name": "Fleshmeld Augur",
 	        "rarity": "rare",
-	        "mana_cost": "{0}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Enclosure.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Fleshmeld Augur.jpg"
 	        }
 	    },
 	    {
@@ -2431,7 +2431,7 @@
 		2 The Plan
 		2 Inconvenient Truth
 		2 Cattleranch Overseer
-		2 Enclosure
+		2 Fleshmeld Augur
 		2 Shrike King
 		2 Drisseu's Study
 		2 Ministry Backchannels
@@ -2475,7 +2475,7 @@
 		2 Vurdwurm
 		2 Sletskev, Shackleward of Jun
 		2 Foretold Salvation
-		1 Fjal, Augur in Chief
+		1 Klaje, Grand Proctor
 		1 Favri, Prodigal Alloysmith
 		1 Archon of West Pitch
 		1 Margin of Rout
@@ -2495,7 +2495,7 @@
 		24 Annotated Reproof
 		24 Depth-Mad Dagu
 		24 Kiln Fiend
-		24 Taprave Revel
+		24 Slagtap Revel
 		24 Ten Men Strong
 		24 Doubleproof Bulwark
 		24 Giantsuit Stiltsmith
@@ -2591,7 +2591,7 @@
 		24 Inevitable Downfall
 		24 Rehearsed Rebuke
 		24 Puresteel Assault
-		24 Somber Valleygeist
+		24 Weird of the Word
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
@@ -2604,7 +2604,7 @@
 		24 Aqueous Form
 		24 World From Word
 		24 In Due Course
-		24 Detain and Search
+		24 Bureau's Persecuted
 		24 Pedantry
 		24 Mental Note
 		24 Cost of Progress
@@ -2627,15 +2627,15 @@
 		24 Scrape the Mindflesh
 		24 Heathen's Abandon
 		24 Flamevein Warlord
-		24 Boltburst
+		24 Raggak Flagbearer
 		24 Smoulder Fiend
-		24 Peak Marauder
+		24 Greasy Veinsire
 		24 Madcap Legionnaire
 		24 Plategeist
 		24 Chainsalvo Conjurer
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
-		24 Kindle Purpose
+		24 Forstoke
 		24 Magma Tap
 		24 Demand Answers
 		24 Prodigal Hands
