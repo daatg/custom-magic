@@ -1575,12 +1575,12 @@
 	        }
 	    },
 	    {
-	        "name": "Helinar Betrayor",
+	        "name": "Helinar Betrayer",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Giant Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Helinar Betrayor.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Helinar Betrayer.jpg"
 	        }
 	    },
 	    {
@@ -2412,12 +2412,12 @@
 	        }
 	    },
 	    {
-	        "name": "Elemental__FIXME",
+	        "name": "Elemental",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental__FIXME.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental.jpg"
 	        }
 	    }
 	]
@@ -2444,7 +2444,7 @@
 		2 Depthsdemaat
 		2 Contagion in the Ranks
 		2 Drisseu's Artillery
-		2 Helinar Betrayor
+		2 Helinar Betrayer
 		2 Veinbelt Pyromancer
 		2 Fusilmancer
 		2 Untapped Riches
