@@ -227,7 +227,7 @@
 	    {
 	        "name": "Library Shrike",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Library Shrike.jpg"
@@ -235,8 +235,8 @@
 	    },
 	    {
 	        "name": "Charmstone Watchkeep",
-	        "rarity": "common",
-	        "mana_cost": "{U}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Golem Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Charmstone Watchkeep.jpg"
@@ -279,12 +279,12 @@
 	        }
 	    },
 	    {
-	        "name": "Deduce in Total",
+	        "name": "Inspiration",
 	        "rarity": "common",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deduce in Total.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Inspiration.jpg"
 	        }
 	    },
 	    {
@@ -324,12 +324,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bureau's Persecuted",
+	        "name": "Bureau's Persecution",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bureau's Persecuted.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bureau's Persecution.jpg"
 	        }
 	    },
 	    {
@@ -360,12 +360,12 @@
 	        }
 	    },
 	    {
-	        "name": "Depth-Mad Dagu",
-	        "rarity": "uncommon",
+	        "name": "Geist of the Archives",
+	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Imp ",
+	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Depth-Mad Dagu.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Geist of the Archives.jpg"
 	        }
 	    },
 	    {
@@ -470,7 +470,7 @@
 	    {
 	        "name": "Pen For Execution",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pen For Execution.jpg"
@@ -522,12 +522,12 @@
 	        }
 	    },
 	    {
-	        "name": "Scrape the Mindflesh",
+	        "name": "Lobohex",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Scrape the Mindflesh.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Lobohex.jpg"
 	        }
 	    },
 	    {
@@ -630,12 +630,12 @@
 	        }
 	    },
 	    {
-	        "name": "Forstoke",
+	        "name": "Ill-Timed Malfunction",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Forstoke.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Ill-Timed Malfunction.jpg"
 	        }
 	    },
 	    {
@@ -729,30 +729,30 @@
 	        }
 	    },
 	    {
-	        "name": "Bearer of Tabar",
+	        "name": "Scholar of Cryptoflora",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Bear Shaman ",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Bear Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bearer of Tabar.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Scholar of Cryptoflora.jpg"
 	        }
 	    },
 	    {
 	        "name": "Lurgy-Gurgy",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Lurgy-Gurgy.jpg"
 	        }
 	    },
 	    {
-	        "name": "Aura Toad",
+	        "name": "Billhook Seeker",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Frog ",
+	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aura Toad.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Billhook Seeker.jpg"
 	        }
 	    },
 	    {
@@ -765,18 +765,18 @@
 	        }
 	    },
 	    {
-	        "name": "Outcamp Woodsman",
+	        "name": "Outcamp Lumberjack",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outcamp Woodsman.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Outcamp Lumberjack.jpg"
 	        }
 	    },
 	    {
 	        "name": "Loambill",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Turtle ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Loambill.jpg"
@@ -821,19 +821,19 @@
 	    {
 	        "name": "Sure Bounty",
 	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Sure Bounty.jpg"
 	        }
 	    },
 	    {
-	        "name": "Mangleroot Frenzy",
+	        "name": "Marlmorphose",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mangleroot Frenzy.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Marlmorphose.jpg"
 	        }
 	    },
 	    {
@@ -857,7 +857,7 @@
 	    {
 	        "name": "Pit Fight Spoils",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pit Fight Spoils.jpg"
@@ -983,7 +983,7 @@
 	    {
 	        "name": "Noriamancy",
 	        "rarity": "uncommon",
-	        "mana_cost": "{X}{U}{U}",
+	        "mana_cost": "{X}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Noriamancy.jpg"
@@ -1053,12 +1053,12 @@
 	        }
 	    },
 	    {
-	        "name": "Augur of Itinerary",
+	        "name": "Synaptic Flood",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Human Wizard ",
+	        "mana_cost": "{4}{U}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Augur of Itinerary.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Synaptic Flood.jpg"
 	        }
 	    },
 	    {
@@ -1154,19 +1154,19 @@
 	    {
 	        "name": "Search the Caves",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Search the Caves.jpg"
 	        }
 	    },
 	    {
-	        "name": "Jun Analyst",
+	        "name": "Legion's Consul",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Human ",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Vampire Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Jun Analyst.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Legion's Consul.jpg"
 	        }
 	    },
 	    {
@@ -1272,7 +1272,7 @@
 	        "name": "Seal the Position",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Seal the Position.jpg"
 	        }
@@ -1287,12 +1287,12 @@
 	        }
 	    },
 	    {
-	        "name": "Angry Sow",
+	        "name": "Rudpit Arena",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
-	        "type": "Creature — Bear ",
+	        "mana_cost": "",
+	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Angry Sow.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rudpit Arena.jpg"
 	        }
 	    },
 	    {
@@ -1388,7 +1388,7 @@
 	    {
 	        "name": "Drisseu's Conservancy",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Drisseu's Conservancy.jpg"
@@ -1478,7 +1478,7 @@
 	    {
 	        "name": "Archon of West Pitch",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{U}{U}",
+	        "mana_cost": "{3}{U}{U}{U}",
 	        "type": "Legendary Creature — Sphinx ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Archon of West Pitch.jpg"
@@ -1512,12 +1512,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rootbrain Augur",
+	        "name": "Bas-Curse",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Human Wizard ",
+	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Rootbrain Augur.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bas-Curse.jpg"
 	        }
 	    },
 	    {
@@ -1568,7 +1568,7 @@
 	    {
 	        "name": "Drisseu's Artillery",
 	        "rarity": "rare",
-	        "mana_cost": "{R}{R}",
+	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Drisseu's Artillery.jpg"
@@ -1658,7 +1658,7 @@
 	    {
 	        "name": "Testflesh",
 	        "rarity": "rare",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Thrull Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Testflesh.jpg"
@@ -1764,21 +1764,21 @@
 	        }
 	    },
 	    {
-	        "name": "Aeonscaalt",
+	        "name": "Archon of East Pitch",
 	        "rarity": "mythic",
-	        "mana_cost": "{G}{G}{G}",
-	        "type": "Creature — Elemental ",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Legendary Creature — Sphinx ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonscaalt.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Archon of East Pitch.jpg"
 	        }
 	    },
 	    {
-	        "name": "Eldmantle",
+	        "name": "Aeonscaalt",
 	        "rarity": "mythic",
 	        "mana_cost": "{G}{G}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Eldmantle.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Aeonscaalt.jpg"
 	        }
 	    },
 	    {
@@ -1811,7 +1811,7 @@
 	    {
 	        "name": "Petty-Thrull Squad Captain",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Petty-Thrull Squad Captain.jpg"
@@ -1964,7 +1964,7 @@
 	    {
 	        "name": "Gasblow Gauntlets",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Gasblow Gauntlets.jpg"
@@ -1980,12 +1980,12 @@
 	        }
 	    },
 	    {
-	        "name": "Spelunker's Lens",
+	        "name": "Mirrorslick",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
-	        "type": "Artifact",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spelunker's Lens.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Mirrorslick.jpg"
 	        }
 	    },
 	    {
@@ -2016,12 +2016,12 @@
 	        }
 	    },
 	    {
-	        "name": "Pipeborn Crustacean",
+	        "name": "Deep-Pipe Menace",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Crab Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pipeborn Crustacean.jpg"
+	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Deep-Pipe Menace.jpg"
 	        }
 	    },
 	    {
@@ -2259,15 +2259,6 @@
 	        }
 	    },
 	    {
-	        "name": "Lost Cub",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Bear ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Lost Cub.jpg"
-	        }
-	    },
-	    {
 	        "name": "Forge-Thrull Ransack",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}{R}",
@@ -2328,15 +2319,6 @@
 	        "type": "Token Creature — Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Bird.jpg"
-	        }
-	    },
-	    {
-	        "name": "Thrull Soldier",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Thrull Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Thrull Soldier.jpg"
 	        }
 	    },
 	    {
@@ -2437,7 +2419,7 @@
 		2 Ministry Backchannels
 		2 Opulence of the Depths
 		2 Drisseu's Relinquish
-		2 Rootbrain Augur
+		2 Bas-Curse
 		2 Gargantuan Mythspawn
 		2 Jun Hellreader
 		2 Spiredungeon Wight
@@ -2463,7 +2445,7 @@
 		2 Penalty and Basis
 		2 Cavetomb Callings
 		2 Zemt, Eye of the Undercity
-		2 Spelunker's Lens
+		2 Mirrorslick
 		2 Outpath Navigator
 		2 Rock and Brimstone
 		2 Thrullraising
@@ -2486,14 +2468,14 @@
 		1 Hilvask, Reanimator Exalt
 		1 Raggak Dragoncaller
 		1 Tunnel Breach
+		1 Archon of East Pitch
 		1 Aeonscaalt
-		1 Eldmantle
 		1 Monument to the Discovery
 		1 Drisseau's Darksteel
 	[UncommonSlot(3)]
+		24 Charmstone Watchkeep
 		24 Aeonfog
 		24 Annotated Reproof
-		24 Depth-Mad Dagu
 		24 Kiln Fiend
 		24 Slagtap Revel
 		24 Ten Men Strong
@@ -2512,7 +2494,7 @@
 		24 Direflock Summons
 		24 Centurystorm
 		24 Deepsphinx
-		24 Augur of Itinerary
+		24 Synaptic Flood
 		24 Editorial Censorship
 		24 Rooftop View
 		24 Lethal Itinerary
@@ -2524,7 +2506,7 @@
 		24 Dalk Alleyway
 		24 Gasquarter Miasma
 		24 Search the Caves
-		24 Jun Analyst
+		24 Legion's Consul
 		24 Grim Bureaucrat
 		24 Flamepress Initiative
 		24 Igneous Wurm
@@ -2536,7 +2518,7 @@
 		24 Poach-Camp Revelers
 		24 Seal the Position
 		24 Ranch Stalker
-		24 Angry Sow
+		24 Rudpit Arena
 		24 Perennial Wurm
 		24 Local Folktale
 		24 Twinshell Beetlebeast
@@ -2559,7 +2541,7 @@
 		24 Fireshrieker
 		24 Helinar Broadsword
 		24 Cloaked Cutpurse
-		24 Pipeborn Crustacean
+		24 Deep-Pipe Menace
 		24 Terroreye Cavebeast
 		24 Altar of Contrition
 		24 Retire From View
@@ -2595,18 +2577,18 @@
 		24 Too-Curious Thrull
 		24 Dagu Wellhop
 		24 Library Shrike
-		24 Charmstone Watchkeep
 		24 Dalk Warkite
 		24 Sletskev Breakout
 		24 Overworked Augur
 		24 Wellborne Cobbleskate
-		24 Deduce in Total
+		24 Inspiration
 		24 Aqueous Form
 		24 World From Word
 		24 In Due Course
-		24 Bureau's Persecuted
+		24 Bureau's Persecution
 		24 Pedantry
 		24 Mental Note
+		24 Geist of the Archives
 		24 Cost of Progress
 		24 Mind Fly
 		24 Sletskev Malefactor
@@ -2624,7 +2606,7 @@
 		24 Anoint in Germ
 		24 Trade in Pith
 		24 Twenty-five Fingers
-		24 Scrape the Mindflesh
+		24 Lobohex
 		24 Heathen's Abandon
 		24 Flamevein Warlord
 		24 Raggak Flagbearer
@@ -2635,7 +2617,7 @@
 		24 Chainsalvo Conjurer
 		24 Unlicensed Aeromancer
 		24 Slagbreaker
-		24 Forstoke
+		24 Ill-Timed Malfunction
 		24 Magma Tap
 		24 Demand Answers
 		24 Prodigal Hands
@@ -2645,18 +2627,18 @@
 		24 Favorfare Boon
 		24 Outcity Poacher
 		24 Rootgeist
-		24 Bearer of Tabar
+		24 Scholar of Cryptoflora
 		24 Lurgy-Gurgy
-		24 Aura Toad
+		24 Billhook Seeker
 		24 Virid Mass
-		24 Outcamp Woodsman
+		24 Outcamp Lumberjack
 		24 Loambill
 		24 Deeptrunk Shaman
 		24 Muzzled Baloth
 		24 Headstrong Baloth
 		24 Menacing Rumble
 		24 Sure Bounty
-		24 Mangleroot Frenzy
+		24 Marlmorphose
 		24 Cavescout
 		24 Arborsole Feats
 		24 Pit Fight Spoils
