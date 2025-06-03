@@ -857,7 +857,7 @@
 	    {
 	        "name": "Pit Fight Spoils",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Pit Fight Spoils.jpg"
@@ -2391,15 +2391,6 @@
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Spirit.jpg"
-	        }
-	    },
-	    {
-	        "name": "Elemental",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Elemental ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/daatguy/custom-magic/main/books-of-tabar/draftmancer/btb-files/Elemental.jpg"
 	        }
 	    }
 	]
